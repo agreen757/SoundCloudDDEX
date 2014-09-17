@@ -1,0 +1,12 @@
+{
+	"dependencies":{
+		"async": "*",
+		"ya-csv": "*",
+		"md5": "*",
+		"checksum": "*",
+		"hash_file": "*",
+		"graceful-fs": "*",
+		"node-uuid": "*"
+
+		}
+}
