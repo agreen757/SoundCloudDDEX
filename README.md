@@ -4,7 +4,9 @@ SoundCloudDDEX
 Creating DDEX feeds for SoundCloud using a .csv file
 
 <hr>
+<h2>How to run</h2>
 <ul>
-  <li> Read a .csv file using the ya-csv module</li>
-  <li> Write to a ddex xml using the fs module</li>
+  <li>Clone the repository</li>
+  <li>run `sh ddex.sh`</li>
+  <li>run `node ddex_soundcloud.js`</li>
 </ul>
